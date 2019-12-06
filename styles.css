@@ -22,3 +22,15 @@ a:hover {
     color: green;
     font-weight: lighter;
 }
+
+.boxes {
+    margin: 5px;
+    padding: 5px;
+    border: 5px solid purple;
+    border-radius: 5px;
+    width: 30em;
+}
+
+#box1, #box2, #box3, #box4 {
+    background-color: orange;
+}
