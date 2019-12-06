@@ -29,8 +29,67 @@ a:hover {
     border: 5px solid purple;
     border-radius: 5px;
     width: 30em;
+    display: block;
 }
 
 #box1, #box2, #box3, #box4 {
     background-color: orange;
+}
+
+.img-box {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: turquoise;
+    position: relative;
+    left: 70px;
+    top: 60px;
+}
+
+h1 {
+    color: forestgreen;
+}
+
+.original {
+    color: brown;
+}
+
+.additional {
+    color: burlywood;
+}
+
+#show1 {
+    color: yellow;
+}
+
+#show2 {
+    color: yellowgreen;
+}
+
+#show3 {
+    color: fuchsia;
+}
+
+#show4 {
+    color: peru;
+}
+
+#show5 {
+    color: aquamarine;
+}
+
+ul {
+    color: darkgoldenrod;
+}
+
+.star {
+    color: mediumspringgreen;
+}
+
+#wars {
+    color: salmon;
+}
+
+.list-border {
+    border: 2px solid black;
 }
